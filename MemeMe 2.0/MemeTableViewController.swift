@@ -4,7 +4,7 @@
 //
 //  Created by jalloh on 08/06/2016.
 //  Copyright © 2016 CWJ. All rights reserved.
-//  complete
+//  completed
 
 import UIKit
 
